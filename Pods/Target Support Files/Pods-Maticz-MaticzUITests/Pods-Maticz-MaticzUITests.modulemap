@@ -1,0 +1,6 @@
+framework module Pods_Maticz_MaticzUITests {
+  umbrella header "Pods-Maticz-MaticzUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
